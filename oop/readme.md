@@ -19,7 +19,7 @@ I run apache bench inside vps command line. Send 1000 requests with 10 concurren
 ####Execution time
 * Procedural: 
 	* Requests per second: 3810.57 
-	* Time per request: 2.624
+	* Time per request: 2.624ms
 	
 * OOP: 233,880 bytes
 	* Requests per second: 1276.58 
