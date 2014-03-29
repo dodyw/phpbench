@@ -26,5 +26,5 @@ I run apache bench inside vps command line. Send 1000 requests with 10 concurren
 	* Time per request: 7.833ms
 
 ##Conclusion
-It is obviously that the procedural will be faster. It run 2-3 times faster. But surprisingly the OOP consume slightly higher than procedural.
+It is obviously that the procedural will be faster. It run 2-3 times faster. But surprisingly the OOP consume memory slightly higher than procedural.
 
