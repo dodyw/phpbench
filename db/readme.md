@@ -1,4 +1,4 @@
-#mysqli vs pdo vs idiorm vs doctrine-abal
+#mysqli vs pdo vs idiorm vs doctrine-dbal
 ##Test environment
 digitalocean.com vps with 512MB RAM with CentOS and PHP 5.5
 ##How to test
