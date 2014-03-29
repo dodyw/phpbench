@@ -45,7 +45,7 @@ I run apache bench inside vps command line. Send 1000 requests with 10 concurren
 	* Time per request: 28.436ms
 
 ##Conclusion
-Doctrine-dbal consume almost twice as much as mysqli. Not only that, it also almost twice slower than mysql as well. For me it is an issue because doctrine-dbal is the foundation of doctrine-orm. So I will never consider to use doctrine-orm as my orm. If I'd like to choose an orm, I will use a lightweight orm like idiorm.
+Doctrine-dbal consume almost twice as much as mysqli. Not only that, it also almost twice slower than mysqli as well. For me it is an issue because doctrine-dbal is the foundation of doctrine-orm. So I will never consider to use doctrine-orm as my orm. If I'd like to choose an orm, I will use a lightweight orm like idiorm.
 
 If I'd like to max out the performance on shared hosting, I'll use mysqli. If I need the application to be able to run to multiple dbms, I will consider between pdo and idiorm.
 
